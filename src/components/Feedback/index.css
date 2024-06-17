@@ -1,0 +1,60 @@
+/* Write your CSS code here. */
+.bg-container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+body {
+  margin: 0px;
+}
+.card-container {
+  background-color: #ffffff;
+  width: 400px;
+  border-radius: 10px;
+}
+.heading {
+  font-size: 20px;
+  text-align: center;
+}
+.unordered-list {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+.list {
+  list-style-type: none;
+  margin: 25px;
+}
+.button {
+  background-color: transparent;
+  border: none;
+}
+.img {
+  height: 40px;
+}
+.para {
+  font-size: 12px;
+}
+.feedback-container {
+  background-color: #ffffff;
+  width: 400px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+.heart-emoji {
+  height: 40px;
+}
+.thank-you {
+  font-size: 17px;
+}
+.para-1 {
+  font-size: 12px;
+}
